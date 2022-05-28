@@ -1,6 +1,14 @@
 # ipsator-react-native-assignment
 Assignment to make a GroupBookingForm
 
+## Images
+
+<img src="/images/formEmpty-1.png" style="width:flex; height:flex">
+<img src="/images/formEmpty-2.png" style="width:flex; height:flex">
+<img src="/images/formFilled-1.png" style="width:flex; height:flex">
+<img src="/images/formFilled-2.png" style="width:flex; height:flex">
+<img src="/images/Output.png" style="width:flex; height:flex">
+
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
