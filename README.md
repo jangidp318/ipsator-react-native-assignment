@@ -3,10 +3,10 @@ Assignment to make a GroupBookingForm
 
 ## Images
 
-<img src="/images/formEmpty-1.png" style="width:flex; height:flex">
-<img src="/images/formEmpty-2.png" style="width:flex; height:flex">
-<img src="/images/formFilled-1.png" style="width:flex; height:flex">
-<img src="/images/formFilled-2.png" style="width:flex; height:flex">
+<img src="/images/formEmpty-1.png" style="width:100; height:flex">
+<img src="/images/formEmpty-2.png" style="width:100; height:flex">
+<img src="/images/formFilled-1.png" style="width:100; height:flex">
+<img src="/images/formFilled-2.png" style="width:100; height:flex">
 <img src="/images/Output.png" style="width:flex; height:flex">
 
 
